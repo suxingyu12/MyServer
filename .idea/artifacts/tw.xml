@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tw">
+    <output-path>$PROJECT_DIR$/out/artifacts/tw</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WebModule" />
+          <element id="module-output" name="ServiceModule" />
+          <element id="module-output" name="Common" />
+          <element id="module-output" name="DBModule" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="commons-fileupload-1.2.1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="WebModule/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+com\bdqn\util\DBUtil.class
+com\bdqn\util\Page.class
+com\bdqn\dao\BaseDao.class
+com\bdqn\dao\StudentDao.class
+com\bdqn\dao\impl\StudentImpl.class
+com\bdqn\util\ConfigManager.class
